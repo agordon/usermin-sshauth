@@ -20,6 +20,8 @@ the standard usermin SSH module to restrict the user).
 
 See screen shots at <https://housegordon.org/usermin-sshauth/>.
 
+Download WBM file at <https://housegordon.org/usermin-sshauth/sshauth.wbm.gz>.
+
 Code available at: <https://github.com/agordon/usermin-sshauth>.
 
 Copyright (C) 2016 Assaf Gordon <assafgordon@gmail.com>.
