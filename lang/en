@@ -1,0 +1,38 @@
+sshauth_title=Edit SSH Authorized Keys
+sshauth_desc=Allows password-less login to this server.
+index_return=list of SSH keys
+
+sshauth_key_name=Key name
+sshauth_key_type=type
+sshauth_key_length=length (bits)
+sshauth_key_fingerprint=finger print
+sshauth_key_opts=Additional options
+sshauth_key_last_digits=Last digits
+sshauth_key_valid=Valid
+sshauth_key_digits=Key digits
+
+sshauth_invalid_key=invalid key
+
+sshauth_no_keys_found=no authorized keys found
+
+sshauth_btn_add=Add new SSH key
+
+
+sshauth_view_title=SSH Key details
+sshauth_view_desc=
+
+sshauth_key_options_desc=These are additional options defined for this specific key.<br>Do not delete keys with additional options unless you understand the implications.<br>You will not be able to add this options back using this GUI.
+
+sshauth_btn_delete=Delete this key
+
+
+sshauth_add_title=Add new SSH authorized key
+sshauth_add_desc=add a new key to this server.
+sshauth_btn_add_this_key=Add this SSH key
+sshauth_key_content=Paste SSH public key content
+
+sshauth_add_err_title=Error adding new SSH key
+sshauth_add_err_empty_key=missing key content
+sshauth_add_err_invalid_type=invalid key type. Expecting 'ssh-rsa' or 'ssh-dsa'. Got: 
+sshauth_add_err_invalid_digits=invalid key content. Expecting Base64 data. Got:
+sshauth_add_err_invalid_fingerprint=invalid key. ssh-keygen failed to parse this key:

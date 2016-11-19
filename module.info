@@ -1,0 +1,6 @@
+version=1.701
+usermin=1
+desc=SSH Auth-keys
+longdesc=Edit SSH authorized keys
+category=login
+depends=1.701
